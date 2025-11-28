@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# ReproducibilityEngineering-JSONSchemaDiscovery
+# Dockerized-JSONSchemaDiscovery
 The repository provides a container that provides an environment where the JSONSchemaDiscovery project can run smoothly and experiments in the paper "An Approach for Schema Extraction of JSON and Extended JSON Document Collections" can be performed.
 
 > **Important:**
@@ -94,3 +94,4 @@ Optional: While you are in the "/usr/src/report";
   ```
     make clean_without_report
   ```
+
